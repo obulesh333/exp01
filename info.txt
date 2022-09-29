@@ -3,9 +3,6 @@ git bash
 git lab
 kubernates
 py charm
-<<<<<<< HEAD
 hi
 got
-=======
 git 
->>>>>>> 883bef8541c15af7ee9aeac2f64458ea61af3799
