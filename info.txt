@@ -3,6 +3,3 @@ git bash
 git lab
 kubernates
 py charm
-hi
-got
-git 
