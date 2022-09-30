@@ -1,8 +1,0 @@
-hello every one
-I am learning Git
-finally i got it 
-python
-java
-js
-node js 
-nodejs
