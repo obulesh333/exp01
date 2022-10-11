@@ -9,9 +9,6 @@ monitoring
 tomcat
 amazon web services
 IBM Server
-<<<<<<< HEAD
 google cloud platform
-=======
 oracle
 java home cloud
->>>>>>> 69af0d4fffbc255384c44892017650af5d41c644
