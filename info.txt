@@ -16,3 +16,4 @@ devops2
 cloud
 aws cloud
 oracle clould
+VM Ware cloud
