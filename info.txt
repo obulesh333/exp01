@@ -15,3 +15,4 @@ java home cloud
 devops2
 cloud
 aws cloud
+oracle clould
