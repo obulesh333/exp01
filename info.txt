@@ -14,3 +14,4 @@ oracle
 java home cloud
 devops2
 cloud
+aws cloud
