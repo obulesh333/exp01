@@ -13,3 +13,4 @@ google cloud platform
 oracle
 java home cloud
 devops2
+cloud
